@@ -1,0 +1,6 @@
+Minifies css and javascript files using an external implementation.
+
+i.e YUICompressor
+
+usage:
+python minify.py --dir=[directory]
